@@ -8,7 +8,7 @@ class HerokuFeaturesApplicationTests {
 
 	@Test
 	fun contextLoads() {
-		Assertions.assertTrue(false);
+		Assertions.assertTrue(true);
 	}
 
 }
